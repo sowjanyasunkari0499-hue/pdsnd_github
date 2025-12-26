@@ -43,7 +43,7 @@ def get_filters():
         day = day.casefold()
 
     
-    print('='*50)
+    print('='*40)
     return city, month, day
 
 
